@@ -1,5 +1,7 @@
-实验1
-> @startuml
+# 实验1
+## 考试及成绩管理流程
+```
+@startuml
 |教务处|
 start
 :安排考试;
@@ -41,3 +43,4 @@ end fork
 :期末考试流程结束;
 stop
 @enduml
+```
