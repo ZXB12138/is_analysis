@@ -1,5 +1,6 @@
 # 图书管理系统用例建模
 
+## 用例图
 ````
 @startuml
 left to right direction
@@ -17,3 +18,4 @@ rectangle  {
 }
 @enduml
 ````
+![a](a.png)
