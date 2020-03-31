@@ -1,6 +1,6 @@
 # 图书管理系统用例建模
 
-""""
+````
 @startuml
 left to right direction
 actor 图书管理员
@@ -16,4 +16,4 @@ rectangle  {
   读者 -down-> (取消预订)
 }
 @enduml
-""""
+````
