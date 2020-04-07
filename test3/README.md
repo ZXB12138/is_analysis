@@ -92,7 +92,7 @@ count=1
 ![b](b.png)
 
 
-### 2.2 类admin的对象图
+### 2.2 类book的对象图
 #### 源码如下：
 ``` 
 @startuml
