@@ -76,12 +76,12 @@
 |code	|状态码|
 
 ## 2.2. 系统主界面设计
-![b.jpg](系统主界面)
+![系统主界面](b.jpg)
 [系统主界面](https://zxb12138.github.io/is_analysis/test5/html/page_2.html).
 
 ## 2.3. 书籍界面设计
-![c.jpg](书籍界面设计)
+![书籍界面设计](c.jpg)
 [书籍界面](https://zxb12138.github.io/is_analysis/test5/html/page_3.html).
 ## 2.4. 借阅记录界面设计
-![d.jpg](借阅记录界面设计)
+![借阅记录界面设计](d.jpg)
 [借阅记录界面](https://zxb12138.github.io/is_analysis/test5/html/page_4.html).
