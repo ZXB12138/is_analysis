@@ -27,11 +27,11 @@
                 "RESULT_SUM": "83.75,90,80,80,85,N",
                 "GITHUB_USERNAME": "Wanghuagang",
                 "STUDENT_ID": "201510414218",
-                "CLASS": "软件(本)15-2",
-                "NAME": "王华港",
+                "CLASS": "软件(本)17-2",
+                "NAME": "周旭波",
                 "COURSE_ID":"1005673",
-                "TERM_ID":"2017-2018-2"
-                "UPDATE_DATE": "2018-04-02 13:48:01"},
+                "TERM_ID":"2019-2020-2"
+                "UPDATE_DATE": "2020-04-02 13:48:01"},
                 {
                 ...其他学生
                 }
