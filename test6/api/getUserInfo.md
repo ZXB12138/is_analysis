@@ -23,8 +23,8 @@
         {         
             "status": true,
             "info": null,
-            "ID":"201510414218",    
-            "name":"王华港",
+            "ID":"201710414231",    
+            "name":"周旭波",
             "class_dept":"软件工程2班"
             "github_username":"wanghuagang",
             "type":"学生"            
