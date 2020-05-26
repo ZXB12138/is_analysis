@@ -24,10 +24,10 @@
         {         
             "status": true,
             "info": null,    
-            "student_id": "201510414218", 
+            "student_id": "201710414231", 
             "github_username": "wanghuagang", 
-            "class": "软件(本)15-2", 
-            "name": "王华港", 
+            "class": "软件(本)17-2", 
+            "name": "周旭波", 
             "course_name": "软件工程",
             "average":90,       
             "data": [
@@ -36,7 +36,7 @@
                 "web_exists": true, 
                 "result": 91, 
                 "memo":"本实验做得好",
-                "update_date": "2018-04-02 13:48:01",
+                "update_date": "2020-05-25 13:48:01",
                 "item":[
                     {
                         "item01":"20",
