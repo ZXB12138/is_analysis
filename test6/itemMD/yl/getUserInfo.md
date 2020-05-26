@@ -14,7 +14,6 @@
 无
 
 ## 3. 界面设计
-- 界面参照: [getUserInfo](../../image/ui/getUserInfo.png)
 - API接口调用
     - 接口1：[getUserInfo](../../api/getUserInfo.md) 
 
