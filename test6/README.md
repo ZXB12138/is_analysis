@@ -99,7 +99,7 @@
 
 - [发布实验用例](itemMD/yl/publishTest.md)
 
-- [修改实验用例](itemMD/yl/publishTest.md)
+- [修改实验用例](itemMD/yl/updateTest.md)
 
 - [登出系统用例](itemMD/yl/loginOut.md)
 
