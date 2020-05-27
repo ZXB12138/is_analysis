@@ -14,7 +14,6 @@
     无
 
 ## 3. 界面设计
-- 界面参照: [searchCourseGradesUI](../../image/ui/rePwd.png)
 - API接口调用
     - 接口1：[rePwd](../../api/rePwd.md) 
 
