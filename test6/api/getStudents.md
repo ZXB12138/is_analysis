@@ -26,7 +26,7 @@
                 {"WEB_SUM": "Y,Y,Y,Y,Y,N",
                 "RESULT_SUM": "83.75,90,80,80,85,N",
                 "GITHUB_USERNAME": "Wanghuagang",
-                "STUDENT_ID": "201510414218",
+                "STUDENT_ID": "202010414231",
                 "CLASS": "软件(本)17-2",
                 "NAME": "周旭波",
                 "COURSE_ID":"1005673",
