@@ -16,7 +16,6 @@
 
     
 ## 3. 界面设计
-- 界面参照: [searchTestUI](../../image/ui/enterGrades.png)
 
 - API接口调用
 
