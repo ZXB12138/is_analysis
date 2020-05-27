@@ -15,7 +15,6 @@
 无
 
 ## 3. 界面设计
-- 界面参照: [logOut](../../image/ui/login.png)
 - API接口调用
     - 接口1：[logout](../../api/loginOut.md) 
 
