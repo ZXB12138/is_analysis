@@ -15,7 +15,6 @@
     无
 
 ## 3. 界面设计
-- 界面参照: [publishTestUI](../../image/ui/publishTest.png)
 - API接口调用
     - 接口设计：[publishTest](../../api/publishTest.md) 
     
