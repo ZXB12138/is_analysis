@@ -1,4 +1,4 @@
-# 接口：publishTest  [返回](../../README.md)
+# 接口：updateTest  [返回](../../README.md)
 
 - 功能：
     为对应的课程发布的实验内容进行修改。
