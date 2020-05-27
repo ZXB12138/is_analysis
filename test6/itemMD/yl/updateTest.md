@@ -15,7 +15,6 @@
     无
 
 ## 3. 界面设计
-- 界面参照: [updateTestUI](../../image/ui/updateTest.png)
 - API接口调用
     - 接口设计：[updateTest](../../api/updateTest.md) 
     
